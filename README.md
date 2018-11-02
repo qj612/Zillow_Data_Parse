@@ -2,5 +2,7 @@ Zillow provides API keys for users to parse property data, the free API key allo
 
 Term of Use of Zillow API: https://www.zillow.com/howto/api/APITerms.htm
 
+My code utilizes Zillow API to create a function to download all datafields available.
+
 
 
